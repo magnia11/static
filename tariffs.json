@@ -1,0 +1,186 @@
+[
+	{
+		"ID": 1,
+		"best": true,
+		"name":"«Полный пакет»",
+		"items": [
+			{
+				"item_text": "Отдых и оздоровление (Сумма софинансирования 10% от стоимости поездки)",
+				"price": 7394.79,
+				"social": 0,
+				"children": null,
+				"ageFrom": null,
+				"ageTo": null,
+				"date_start": null,
+				"date_last": null,
+				"timeTravel": ""
+			},
+			{
+				"item_text": "Трансфер Салехард — Москва (ШРМ) Рейс YC 32 A/K «Ямал»",
+				"price": 9500,
+				"social": null,
+				"children": 4750,
+				"ageFrom": 10,
+				"ageTo": 12,
+				"date_start":"2020-06-01",
+				"timeTravel": "09:10 - 10:10"
+			},
+			{
+				"item_text": "Москва (ШРМ) Рейс YC 32 A/K «Ямал»",
+				"price": 9500,
+				"social": null,
+				"children": 4750,
+				"ageFrom": 10,
+				"ageTo": 12,
+				"date_start":"2020-06-22",
+				"timeTravel": "13:12 - 08:00"
+			}
+		],
+		"price": {
+			"default": {
+				"total": 26394.79,
+				"children": {
+					"ageFrom": 10,
+					"ageTo": 12,
+					"price": 16894.79
+				}
+			},
+			"social": {
+				"total": 19000,
+				"children": {
+					"ageFrom": 10,
+					"ageTo": 12,
+					"price": 9500
+				}
+			}
+		}
+	},
+	{
+		"ID": 2,
+		"best": false,
+		"name":"«Отдых + трансфер до Мск»",
+		"items": [
+			{
+				"item_text": "Отдых и оздоровление (Сумма софинансирования 10% от стоимости поездки)",
+				"price": 7394.79,
+				"social": 0,
+				"children": null,
+				"ageFrom": null,
+				"ageTo": null,
+				"date_start": null,
+				"date_last": null,
+				"timeTravel": ""
+			},
+			{
+				"item_text": "Трансфер Салехард — Москва (ШРМ) Рейс YC 32 A/K «Ямал»",
+				"price": 9500,
+				"social": null,
+				"children": 4750,
+				"ageFrom": 10,
+				"ageTo": 12,
+				"date_start":"2020-06-01",
+				"timeTravel": "09:10 - 10:10"
+			}
+		],
+		"price": {
+			"default": {
+				"total": 26394.79,
+				"children": {
+					"ageFrom": 10,
+					"ageTo": 12,
+					"price": 16894.79
+				}
+			},
+			"social": {
+				"total": 19000,
+				"children": {
+					"ageFrom": 10,
+					"ageTo": 12,
+					"price": 9500
+				}
+			}
+		}
+	},
+	{
+		"ID": 3,
+		"best": false,
+		"name":"«Отдых + трансфер до Схд",
+		"items": [
+			{
+				"item_text": "Отдых и оздоровление (Сумма софинансирования 10% от стоимости поездки)",
+				"price": 7394.79,
+				"social": 0,
+				"children": 0,
+				"ageFrom": null,
+				"ageTo": null,
+				"date_start": null,
+				"date_last": null,
+				"timeTravel": ""
+			},
+			{
+				"item_text": "Москва (ШРМ) Рейс YC 32 A/K «Ямал»",
+				"price": 9500,
+				"social": null,
+				"children": 4750,
+				"ageFrom": 10,
+				"ageTo": 12,
+				"date_start":"2020-06-22",
+				"timeTravel": "13:12 - 08:00"
+			}
+		],
+		"price": {
+			"default": {
+				"total": 26394.79,
+				"children": {
+					"ageFrom": 10,
+					"ageTo": 12,
+					"price": 16894.79
+				}
+			},
+			"social": {
+				"total": 19000,
+				"children": {
+					"ageFrom": 10,
+					"ageTo": 12,
+					"price": 9500
+				}
+			}
+		}
+	},
+	{
+		"ID": 4,
+		"best": false,
+		"name":"«Только отдых»",
+		"items": [
+			{
+				"item_text": "Отдых и оздоровление (Сумма софинансирования 10% от стоимости поездки)",
+				"price": 7394.79,
+				"social": 0,
+				"children": 0,
+				"ageFrom": null,
+				"ageTo": null,
+				"date_start": null,
+				"date_last": null,
+				"timeTravel": ""
+			}
+		],
+		"price": {
+			"default": {
+				"total": 26394.79,
+				"children": {
+					"ageFrom": 10,
+					"ageTo": 12,
+					"price": 16894.79
+				}
+			},
+			"social": {
+				"total": 19000,
+				"children": {
+					"ageFrom": 10,
+					"ageTo": 12,
+					"price": 9500
+				}
+			}
+		}
+	}
+]
